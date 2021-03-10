@@ -1,0 +1,6 @@
+embeddings/
+.ipynb_checkpoints/
+.DS_STORE
+glove.6B.zip
+.vscode/
+__pycache__/
