@@ -2,5 +2,7 @@ embeddings/
 .ipynb_checkpoints/
 .DS_STORE
 glove.6B.zip
+glove.6B.zip.1
+glove.6B.zip.2
 .vscode/
 __pycache__/
